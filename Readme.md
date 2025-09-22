@@ -4,6 +4,8 @@
 
 A simple and efficient Task Manager application to help users organize, track, and manage their daily tasks. Built with React and styled using Tailwind CSS, this project focuses on usability, simplicity, and a clean user interface.
 
+**Preview** ( https://khiladi01.github.io/Task-Manager/ )
+
 ---
 
 ## Features
